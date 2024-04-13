@@ -51,7 +51,7 @@ def generate_fractal(coeff_dict, filename, points=10000, method=1, frames=100):
     
     gif_path = os.path.join('gifs', filename)
     ani.save(gif_path, writer='pillow', fps=10)
-    plt.show() #don't need ?
+    plt.show() 
 
 coeff_dict1 = {
     'set1': (0.1400, 0.0100, 0.0000, 0.5100, -0.0800, -1.3100, 0.25),
@@ -65,7 +65,7 @@ coeff_dict2 = {
     'set3': (0.181818, -0.136364, 0.090909, 0.181818, 6.086107, 1.568035, 0.05)
 }
 coeff_dict3 = {
-    'set1': (0.2020, 0.8050, -0.6890, -0.3420, -0.3730, -0.6530, 0.5),
+    'set1': (0.2020, -0.8050, -0.6890, -0.3420, -0.3730, -0.6530, 0.5),
     'set2': (0.1380, 0.6650, -0.5020, -0.2220, 0.6600, -0.2770, 0.5) 
 }
 coeff_dict4 = {
