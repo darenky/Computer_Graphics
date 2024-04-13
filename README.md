@@ -1,4 +1,4 @@
-## [x] Lab1 - Geometric Transformations on the Coordinate Plane
+[x] Lab1 - Geometric Transformations on the Coordinate Plane
 ## Lab2 - Geometric Transformations in Space
 ## Lab3 - Creating Fractals using L-systems
 ## Lab4 - Creating Fractals using Iterated Functions
