@@ -1,6 +1,6 @@
 - [x] Lab1 - Geometric Transformations on the Coordinate Plane
-- [ ] Lab2 - Geometric Transformations in Space
+- [x] Lab2 - Geometric Transformations in Space
 - [x] Lab3 - Creating Fractals using L-systems
 - [x] Lab4 - Creating Fractals using Iterated Functions
-- [ ] Lab5 - Image Interpolation Methods. Digital Zoom
-- [ ] Lab6 -
+- [x] Lab5 - Image Interpolation Methods. Digital Zoom
+- [x] Lab6 - Digital Steganography: Watermark and Text Insertion
